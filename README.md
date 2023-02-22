@@ -18,5 +18,7 @@ Total 5 layers (3 hidden layer, 1 input, 1 output)
 * 96.17% compression
 <br>
 <img src='https://i.ibb.co/pJXLCZb/download.png'>
+
 <br>
-(read [ Autoencoder Notebook ](https://github.com/ashish-2005/Autoencoder/blob/master/Untitled0.ipynb) for complete procedure)
+
+read [Autoencoder Notebook](https://github.com/ashish-2005/Autoencoder/blob/master/Untitled0.ipynb) for complete procedure
